@@ -9,6 +9,8 @@
 
 A comprehensive Windows-optimized tool for downloading, converting, and quantizing the Qwen2.5-7B-Instruct model to GGUF format. This project provides a structured approach to model quantization with separate scripts for each phase of the process, specifically designed for Windows environments.
 
+Enables offline, privacy-preserving analysis of i.e., sports, exercise, or organization-related data through local LLM deployment, without sending sensitive data to external servers.
+
 ## Features
 
 - **Phased Approach**: Separate scripts for download, conversion, quantization, and inference testing
